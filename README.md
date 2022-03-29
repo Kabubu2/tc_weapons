@@ -1,4 +1,4 @@
-# tc_weapons
+# Terry Cosmetics - Weapons
 Terry Cosmetics - Weapons
 
 In this repo are a selection of weapons that I have made for S&Box.
